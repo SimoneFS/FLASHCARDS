@@ -6,6 +6,7 @@
 
 body {
     background-image: url('/img/bg-desktop.webp');
+    background: url('assets/bg-desktop.webp');
     font-family: Bai Jamjuree;  
 }
 
