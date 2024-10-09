@@ -62,6 +62,11 @@ display: flex;
 .cartao__conteudo__pergunta,
 .cartao__conteudo__resposta {
     backface-visibility: hidden;
+    position: absolute;
+}
+
+.cartao__conteudo__resposta {
+    transform: rotateY(180deg);
 }
 
 footer {
